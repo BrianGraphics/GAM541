@@ -1,3 +1,0 @@
-C:\Users\laugh\OneDrive\Desktop\CS541-framework-glfw\Debug\framework.exe
-C:\Users\laugh\OneDrive\Desktop\cs541\CS541-framework-glfw\Debug\framework.exe
-D:\GitHub\GAM541\GAM541\Debug\framework.exe
