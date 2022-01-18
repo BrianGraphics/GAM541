@@ -1,0 +1,1338 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  emulator.cpp
+  transform.cpp
+D:\GitHub\GAM541\GAM541\transform.cpp(105,51): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\transform.cpp(105,37): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\transform.cpp(105,23): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  simplexnoise.cpp
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(179,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(185,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(205,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(206,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(216,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(223,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(230,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(239,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(248,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(254,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(286,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(287,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(288,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(289,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(290,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(291,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(303,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(310,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(317,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(324,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(333,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(340,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(341,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(406,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(407,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(408,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(409,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(410,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(411,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(412,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(413,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(414,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(415,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(416,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(417,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(431,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(438,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(445,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(452,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(459,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\simplexnoise.cpp(467,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shapes.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\shapes.cpp(132,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(326,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(327,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(331,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(332,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(336,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(337,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(338,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(342,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(343,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(522,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(588,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHub\GAM541\GAM541\shapes.cpp(601,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHub\GAM541\GAM541\shapes.cpp(612,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHub\GAM541\GAM541\shapes.cpp(704,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\shapes.cpp(709,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\shapes.cpp(710,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  object.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\object.cpp(103,25): warning C4018: '<': signed/unsigned mismatch
+  interact.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\interact.cpp(137,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\GAM541\GAM541\interact.cpp(138,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\GAM541\GAM541\interact.cpp(142,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\interact.cpp(143,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  texture.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+  shader.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\shader.cpp(25,16): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  scene.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\scene.cpp(49,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\scene.cpp(50,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\scene.cpp(88,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\scene.cpp(88,62): warning C4305: '+=': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\scene.cpp(89,42): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(96,85): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(96,77): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(96,69): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(107,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\GAM541\GAM541\scene.cpp(115,43): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(116,44): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(117,33): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(117,62): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(118,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(118,63): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(144,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(145,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(169,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\GAM541\GAM541\scene.cpp(314,46): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\GitHub\GAM541\GAM541\scene.cpp(415,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  imgui_widgets.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  imgui_impl_opengl3.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+  imgui_impl_glfw.cpp
+  framework.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+  fbo.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+  Camera.cpp
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(104,51): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(141,54): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLboolean,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(159,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=int
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(177,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(205,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(233,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(261,60): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(289,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(317,56): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(345,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(373,70): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(401,73): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(429,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(457,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(485,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(513,74): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(541,59): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(569,66): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(597,64): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(625,63): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(653,55): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(681,61): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(709,62): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+D:\GitHub\GAM541\GAM541\libs\glbinding\gl\types.h(737,58): warning C4996: 'std::_Conditionally_enabled_hash<_Kty,true>::result_type': warning STL4007: Many result_type typedefs and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+          with
+          [
+              _Kty=std::_Underlying_type<gl::GLenum,true>::type
+          ]
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rply.c
+D:\GitHub\GAM541\GAM541\rply.c(374,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(462,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(492,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(510,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(534,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(559,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(573,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(1228,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(1243,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(1246,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\GAM541\GAM541\rply.c(1268,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  framework.vcxproj -> D:\GitHub\GAM541\GAM541\Debug\framework.exe
+  .\libs\glbinding.dll
+  1 File(s) copied
