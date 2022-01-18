@@ -1,0 +1,134 @@
+﻿  fbo.cpp
+  framework.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  scene.cpp
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(45): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(46): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(84): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(84): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(85): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(91): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(102): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(110): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(111): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(112): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(113): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(139): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(243): warning C4305: '引數': 從 'double' 轉換為 'const float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(245): warning C4305: '引數': 從 'double' 轉換為 'const float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(253): warning C4305: '引數': 從 'double' 轉換為 'const float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(259): warning C4305: '引數': 從 'double' 轉換為 'const float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(260): warning C4305: '引數': 從 'double' 轉換為 'const float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\scene.cpp(334): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+  shader.cpp
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shader.cpp(25): warning C4244: '正在初始化': 將 'std::streamoff' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  texture.cpp
+  interact.cpp
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\interact.cpp(107): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\interact.cpp(108): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\interact.cpp(112): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\interact.cpp(113): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  object.cpp
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\object.cpp(90): warning C4018: '<': signed/unsigned 不相符
+  shapes.cpp
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(132): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(325): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(326): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(327): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(331): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(332): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(336): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(337): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(338): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(342): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(343): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(522): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(588): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(601): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(612): warning C4244: '=': 將 'double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(704): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(709): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\shapes.cpp(710): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  simplexnoise.cpp
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(179): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(185): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(205): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(206): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(216): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(223): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(230): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(239): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(248): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(254): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(286): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(287): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(288): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(289): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(290): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(291): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(303): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(310): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(317): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(324): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(333): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(340): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(341): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(406): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(407): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(408): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(409): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(410): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(411): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(412): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(413): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(414): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(415): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(416): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(417): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(431): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(438): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(445): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(452): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(459): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\simplexnoise.cpp(467): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  transform.cpp
+  emulator.cpp
+  rply.c
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(374): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(462): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(492): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(510): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(534): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(573): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(1228): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(1243): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(1246): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+c:\users\laugh\onedrive\desktop\cs541-framework-glfw\rply.c(1268): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1469): note: 請參閱 'vsprintf' 的宣告
+  正在產生程式碼
+  All 2235 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  framework.vcxproj -> C:\Users\laugh\OneDrive\Desktop\CS541-framework-glfw\Release\framework.exe
+  .\libs\glbinding.dll
+  已複製 1 個檔案
